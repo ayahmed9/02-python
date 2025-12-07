@@ -1,2 +1,2 @@
 # Python Work
-This repository contains my learning progress as I work through Python Crash Course (3rd Edition) and other Python fundamentals, with potential to include larger projects. Files progress from basic syntax to full mini-projects and potentially more.
+This repository documents my Python learning journey through Python Crash Course (3rd Edition) and foundational scripting concepts, with future projects focused on automation and cybersecurity-relevant use cases.
